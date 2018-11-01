@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=customer
+comment0.target=Rental(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCustomer()
+comment2.params=
+comment2.target=java.util.Date\ getRentedOn()
+comment3.params=
+comment3.target=java.util.Date\ getReturnedOn()
+comment4.params=returnedOn
+comment4.target=void\ setReturnedOn(java.util.Date)
+comment5.params=
+comment5.target=boolean\ isActive()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

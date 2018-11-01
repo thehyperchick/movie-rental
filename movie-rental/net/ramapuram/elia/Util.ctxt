@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=c\ count
+comment0.target=java.lang.String\ repeat(char,\ int)
+comment0.text=\n\ Is\ a\ util\ method\ which\ returns\ a\ string\ that\ repeats\ a\ character\ count\ number\ of\ times\n\ @param\ c\n\ @param\ count\n\ @return\n
+numComments=1

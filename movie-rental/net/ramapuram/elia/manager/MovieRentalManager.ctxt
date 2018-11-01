@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getTotalNumberOfMovies()
+comment1.params=name
+comment1.target=net.ramapuram.elia.model.Movie\ getMovie(java.lang.String)
+comment10.params=
+comment10.target=void\ deleteAll()
+comment2.params=name
+comment2.target=void\ removeMovie(java.lang.String)
+comment3.params=movieName\ customer
+comment3.target=void\ rentMovie(java.lang.String,\ java.lang.String)
+comment4.params=movieName\ customer\ review
+comment4.target=void\ returnMovie(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment5.params=movie
+comment5.target=void\ addMovie(net.ramapuram.elia.model.Movie)
+comment6.params=
+comment6.target=java.util.List\ getAvailableMovies()
+comment7.params=
+comment7.target=java.util.List\ getAllMovies()
+comment8.params=
+comment8.target=void\ loadDatabase()
+comment9.params=
+comment9.target=void\ saveDatabase()
+numComments=11
